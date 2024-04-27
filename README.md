@@ -55,7 +55,8 @@ Program to design a half adder and full adder circuit and verify its truth table
 ![image](https://github.com/Narasimhan05/HALF_ADDER_SUBTRACTOR/assets/132819871/f2d5ef67-2885-4887-a274-8fcf42af6754)
 
 ### HALF SUBSTRACTER
-![image](https://github.com/Narasimhan05/HALF_ADDER_SUBTRACTOR/assets/132819871/62723c04-fa00-4a30-8a5f-c6064f532013)
+![Screenshot 2024-04-27 102052](https://github.com/karthiksec/HALF_ADDER_SUBTRACTOR/assets/147473368/e3087e27-5774-4bda-b567-d7e1f0f904e3)
+
 
 ## RTL Schematic:
 ### HALF ADDER
